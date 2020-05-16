@@ -1,5 +1,5 @@
-# daedalusdynamics
-A Scalable AWS ECS build<p>
+# A Scalable Website using AWS and ECS
+<p>
 <b> Run this first, probably getting 172.12.0.2</b><p>
 `docker run -d -v /www:/www -p 80:80 dd/tengine:1.0`<p>
 <b> Run this second, probably getting 172.12.0.3</b><p>
